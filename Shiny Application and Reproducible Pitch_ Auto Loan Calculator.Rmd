@@ -44,8 +44,17 @@ This application also has the option to include all fees in the loan.
 
 
 
-## Application Layout
+## Application Layout and sample code
 
-```{r echo=FALSE, out.width='90%'}
+```{r echo=FALSE, out.width='50%'}
 knitr::include_graphics('./application_layout.png')
 ```
+
+- sample code
+```{r sample code, eval=FALSE, echo=TRUE}
+# function to calculate monthly payment of your auto loan
+monthly_pay <- function(loan, time, int){
+    return(loan*(int*((1+int)^time))/(((1+int)^time )- 1))
+}
+```
+
