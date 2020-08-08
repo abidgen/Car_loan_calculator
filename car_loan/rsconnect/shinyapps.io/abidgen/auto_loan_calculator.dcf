@@ -1,0 +1,12 @@
+name: auto_loan_calculator
+title: auto_loan_calculator
+username:
+account: abidgen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2653334
+bundleId: 3491496
+url: https://abidgen.shinyapps.io/auto_loan_calculator/
+when: 1596925453.47759
+asMultiple: FALSE
+asStatic: FALSE
