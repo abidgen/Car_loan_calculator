@@ -1,5 +1,4 @@
 # Car_loan_calculator
-Course Project: Shiny Application and Reproducible Pitch
 
 ### author: "Abid Al Reza"
 ### date: "8/8/2020"
