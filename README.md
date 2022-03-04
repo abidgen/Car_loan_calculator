@@ -1,7 +1,7 @@
 # Car_loan_calculator
 
-### author: "Abid Al Reza"
-### date: "8/8/2020"
+#### author: "Abid Al Reza"
+#### date: "8/8/2020"
 
 
 ## Overview
