@@ -6,8 +6,6 @@
 
 ## Overview
 
-This presentation was generated as a requirement for completion of the coursera course titled "Developing Data Products."
-
 The application (Auto Loan Calculator) was developed using Shiny and can be observed [here](https://abidgen.shinyapps.io/auto_loan_calculator/).
 
 Source codes for the presentation (Rmd file) and application (ui.R and server.R) are hosted at [Github](https://github.com/abidgen/Car_loan_calculator).
